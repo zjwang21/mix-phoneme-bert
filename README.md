@@ -43,6 +43,16 @@ batch size | peak learning rate
 
 You can set this parameters in fairseq/examples/roberta/config/pretraining/base.yaml
 
+## Curves
+Training on 1 bilion lines text data with 8 V100 32G GPUs
+Still runing.
+### loss
+![loss](./docs/images/loss.png)
+### loss_phoneme
+![lossp](./docs/images/lossp.png)
+### loss_sup_phoneme
+![losssp](./docs/images/losssp.png)
+
 ## Citations
 ```
 @artical{zhang2022Mix-PB,

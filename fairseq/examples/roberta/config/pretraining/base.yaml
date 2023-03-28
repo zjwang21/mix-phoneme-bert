@@ -3,7 +3,7 @@ common:
   fp16: True
   log_format: json
   log_interval: 100
-  tensorboard_logdir: /mnt/lustre/wangzhijun2/mixbert/5kw/tensorboard
+  tensorboard_logdir: /home/wangzhijun2/mix-phoneme-bert/data/tensorboard
   no_progress_bar: True
   
 checkpoint:
@@ -11,7 +11,6 @@ checkpoint:
 
 task:
   _name: mix_phoneme_masked_lm
-  data: /mnt/lustre/wangzhijun2/mix-bert/data/5kw-new/bpe/bin
   sample_break_mode: complete
   tokens_per_sample: 510
   mask_whole_words: True
@@ -19,7 +18,7 @@ task:
 criterion: mix_phoneme_masked_lm
 
 dataset:
-  batch_size: 256
+  batch_size: 16
   ignore_unused_valid_subsets: true
   skip_invalid_size_inputs_valid_test: True
   num_workers: 4
@@ -36,8 +35,8 @@ lr_scheduler:
 
 optimization:
   clip_norm: 0
-  lr: [0.0007]
-  max_update: 125000
+  lr: [0.0005]
+  max_update: 10000
   update_freq: [8]
 
 model:

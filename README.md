@@ -52,6 +52,10 @@ Still runing.
 ![lossp](./docs/images/lossp.png)
 ### loss_sup_phoneme
 ![losssp](./docs/images/losssp.png)
+### acc_phoneme
+![lossp](./docs/images/accp.png)
+### acc_sup_phoneme
+![losssp](./docs/images/accsp.png)
 
 ## Citations
 ```

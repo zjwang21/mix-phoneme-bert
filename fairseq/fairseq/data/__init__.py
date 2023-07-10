@@ -27,7 +27,7 @@ from .indexed_dataset import (
     IndexedRawTextDataset,
     MMapIndexedDataset,
 )
-from .ceph_indexed_dataset import CMMapIndexedDataset
+#from .ceph_indexed_dataset import CMMapIndexedDataset
 from .language_pair_dataset import LanguagePairDataset
 from .list_dataset import ListDataset
 from .lm_context_window_dataset import LMContextWindowDataset

@@ -14,6 +14,7 @@ task:
   sample_break_mode: complete
   tokens_per_sample: 510
   mask_whole_words: True
+  data: /home/u1190303311/mix-phoneme-bert-main/fairseq/examples/roberta/config/pretraining
 
 criterion: mix_phoneme_masked_lm
 

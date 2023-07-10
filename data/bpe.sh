@@ -1,7 +1,7 @@
-root=/home/wangzhijun2/mix-phoneme-bert/data/bpe/
-tools=/home/wangzhijun2/mix-phoneme-bert/tools
-spm_train=/home/wangzhijun2/mix-phoneme-bert/fairseq/scripts/spm_train.py
-spm_encode=/home/wangzhijun2/mix-phoneme-bert/fairseq/scripts/spm_encode.py
+root=/home/u1190303311/mix-phoneme-bert-main/data/bpe
+tools=/home/u1190303311/mix-phoneme-bert-main/tools
+spm_train=/home/u1190303311/mix-phoneme-bert-main/fairseq/scripts/spm_train.py
+spm_encode=/home/u1190303311/mix-phoneme-bert-main/fairseq/scripts/spm_encode.py
 
 python $tools/bpe_pre.py --dic-path $root/dict_for_bpe.txt \
     --input-path $root/train.p \

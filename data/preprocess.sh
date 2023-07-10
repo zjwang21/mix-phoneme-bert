@@ -1,4 +1,4 @@
-path=/home/wangzhijun2/mix-phoneme-bert/data/bpe
+path=/home/u1190303311/mix-phoneme-bert-main/data/bpe
 for lang in p sp
 do
 fairseq-preprocess \

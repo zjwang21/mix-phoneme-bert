@@ -236,7 +236,7 @@ zu3 zu3 jian4 jian4 le5 le5 xian4zai4 xian4zai4 xian4zai4 xian4zai4 de5 de5 san1
 k a3 g a1 mi3 mi3 shen1shang5 shen1shang5 shen1shang5 shen1shang5 de5 de5 shang1 shang1 shiii4 shiii4 kai1 kai1 shiii2 shiii2 i3 r ou4 ian2 ke3 ke3 jian4 jian4 de5 de5 su4 su4 du4 du4 xvn4 xvn4 su4 su4 huei1 huei1 fu4 fu4
 ta1 ta1 mo4 mo4 di4 di4 fa1xian4 fa1xian4 fa1xian4 fa1xian4 ch uang2 qian2 qian2 zuo4 zuo4 zhe5 zhe5 i2ge4 i2ge4 i2ge4 ren2 ren2
 ta1men5 ta1men5 ta1men5 ta1men5 de5p de5p de5p ao4 mo4 mo4 van3 da4 da4 v2 nan2 nan2 hai3 hai3 gong1sii1 gong1sii1 gong1sii1 gong1sii1
-uei4 guo2 guo2 xiao4 xiao4 li4de5 li4de5 li4de5 li4de5 da4 da4 i4 jiou4 jiou4 bei4 bei4 po4 po4 h uai4 le5 le5
+uei4 guo2 guo2 xiao4 xiao4 li4 li4 de5da4 de5da4 de5da4 de5da4 i4 jiou4 jiou4 bei4 bei4 po4 po4 h uai4 le5 le5
 v3 qi2 qi2 ba3 ba3 shiii2jian1 shiii2jian1 shiii2jian1 shiii2jian1 l ang4 fei4 fei4 zai4 zai4 huen2 huen2 ian2 jiou1 jiou1 zhe4iang4 zhe4iang4 zhe4iang4 guo4 guo4 v2 shen1 shen1 ao4 de5 de5 xiang4 xiang4 mu4 mu4 shang4 shang4
 zhou1 zhou1 tian1 tian1 jin4 jin4 ru4 ru4 qi2 qi2 zhong1 zhong1 duo1 duo1 ban4 ban4 dou1 dou1 neng2 neng2 de2dao4 de2dao4 de2dao4 de2dao4 i4xie1 i4xie1 i4xie1 hao3 hao3 ch u5
 i2ge4 i2ge4 i2ge4 zu3 zu3 zhiii1zhong1 zhiii1zhong1 zhiii1zhong1 zhiii1zhong1
@@ -312,7 +312,7 @@ shen2 shen2 jiao1 jiao1 ie3 dong4 dong4 zuo4 zuo4 bu2 bu2 duan4 duan4
 hai2 hai2 gei2 gei2 uo3 song4 song4 lai2 lai2 i4 dian3 dian3 jiang4 jiang4 jiang1 jiang1 ia2
 fang1 fang1 qian1 qian1 uan4 fen1 fen1 jing4 jing4 pei4 pei4
 d ian3 le5 le5 ji2 ji2 zhong1 zhong1 zuei4 zuei4 xi3huan5 xi3huan5 xi3huan5 xi3huan5 de5 de5
-zhe4 zhe4 hu1 hu1 la1 la1 la1 la1 i4 qvn2 qvn2 ren2 ren2 i3jing1 i3jing1 i3jing1 zou3 zou3 dao4le5 dao4le5 dao4le5 dao4le5 gong1 gong1 jiao1 jiao1 che1 che1 de5zhan4 de5zhan4 de5zhan4 de5zhan4 pai2 pai2 uei4 zh iii5
+zhe4 zhe4 hu1 hu1 la1 la1 la1 la1 i4 qvn2 qvn2 ren2 ren2 i3jing1 i3jing1 i3jing1 zou3 zou3 dao4le5 dao4le5 dao4le5 dao4le5 gong1 gong1 jiao1 jiao1 che1 che1 de5 de5 zhan4 zhan4 pai2 pai2 uei4 zh iii5
 z uo2 tian1 tian1 jiou4shiii4 jiou4shiii4 jiou4shiii4 jiou4shiii4 zhe4iang4 zhe4iang4 zhe4iang4
 dan4 dan4 ru2 ru2 guo3 guo3 zhe4 zhe4 shiii4i4 shiii4i4 shiii4i4 bi3 bi3 gan1 gan1 jing4 jing4 de5 de5 jiao1 jiao1 i4
 ke3 ke3 xi1 xi1 uo3 gang1 gang1 c ou4 shang4 shang4 qv4 qv4 kan4 kan4
@@ -381,14 +381,14 @@ zhe4 zhe4 xiao3 xiao3 chong2 chong2 kan4zhe5 kan4zhe5 kan4zhe5 kan4zhe5 huen2 hu
 ran2hou4 ran2hou4 ran2hou4 ran2hou4 zai4 zai4 iou2 k ou2 v2 zhuan3 zhuan3 huan4 huan4 qi4 qi4
 zhe4 zhe4 zuo4 zuo4 lou2 lou2 iou3 ba1 ba1 ceng2 ceng2 gao1 gao1
 ie3 bu2 bu2 zhiii4 zhiii4 v2 lian2 lian2 san1 san1 liou2 liou2 dou1 dou1 suan4 suan4 bu2 bu2 shang4 shang4 ba5 ba5
-dan4shiii4 dan4shiii4 dan4shiii4 dan4shiii4 jiou4 jiou4 cheng2 cheng2 le5ta1 le5ta1 le5ta1 le5ta1 sh uei4 bu4 bu4 hao3 hao3 le5 le5 chen2 chen2 san1 san1 ie2 i4 shou3 shou3 k ou4 zhe5 zhe5 ta1de5 ta1de5 ta1de5 ta1de5 shuang1 shuang1 shou3 shou3
+dan4shiii4 dan4shiii4 dan4shiii4 dan4shiii4 jiou4 jiou4 cheng2 cheng2 le5 le5 ta1 ta1 sh uei4 bu4 bu4 hao3 hao3 le5 le5 chen2 chen2 san1 san1 ie2 i4 shou3 shou3 k ou4 zhe5 zhe5 ta1de5 ta1de5 ta1de5 ta1de5 shuang1 shuang1 shou3 shou3
 t ing3 lei4 lei4 de5 de5 ba5 ba5
 iou3 uang2 na2 na2 li3 li3 cuen2 cuen2 chu3 chu3 zhen1 zhen1 qi4 qi4 ne5 ne5
 ta1 ta1 zii4 zii4 ji2 ji2 ie3 zhiii1dao4 zhiii1dao4 zhiii1dao4 zhiii1dao4 zhe4 zhe4 dong1 dong1 fang1 fang1 bu2 bu2 bai4 bai4 ken3 ken3 ding4 ding4 shiii4 shiii4 nv3 nv3 ren5 ren5
 cheng2 cheng2 man3 man3 iang2 guang1 guang1 de5m de5m de5m ou2 zii5 zii5 qve4 qve4 i1 jiou4 jiou4 zai4 zai4 hei1 hei1 an4 zhong1 zhong1 xvn2 xvn2 zhao3 zhao3 guang1 guang1 ming2 ming2
 ni2 ni2 deng3 deng3 ji2 ji2 bian4 bian4 zhiii3 zhiii3 shiii4 shiii4 lu4 lu4 guo4 guo4 cii2 cii2 dao3 dao3
 zheng4 zheng4 fu3 fu3 mei3 mei3 ge4 ge4 ve4 dou1 dou1 huei4 huei4 gei2 gei2 uo3 ji2 ji2 bai3 bai3 kuai4 kuai4 qian2 qian2 de5sheng1 de5sheng1 de5sheng1 de5sheng1 huo2 huo2 fei4 fei4
-u2 qi2 qi2 shan1 shan1 ren4 ren4 xiao4 xiao4 xiao4 xiao4 deng3 deng3 ren2 ren2 gai1 gai1 huei2 huei2 jia1 jia1 jiou4 jiou4 huei2 huei2 jia1 jia1
+u2 qi2 qi2 shan1 shan1 ren4 ren4 xiao4 xiao4 xiao4 xiao4 deng3ren2 deng3ren2 deng3ren2 deng3ren2 gai1 gai1 huei2 huei2 jia1 jia1 jiou4 jiou4 huei2 huei2 jia1 jia1
 ch u2 qve4 qve4 u2 xiang3 xiang3 s eng1 he2 he2 bu4 bu4 lao3 lao3 shen2 shen2 xian1 xian1 zhiii1 zhiii1 uai4
 iou3 shen2me5 shen2me5 shen2me5 shen2me5 hao3 hao3 shiii4 shiii4 qing5 qing5 fa1 fa1 sheng1 sheng1
 ru2guo3 ru2guo3 ru2guo3 ru2guo3 feng1 feng1 cong2 cong2 ling4 ling4 i4 bian1 bian1 lai2 lai2
@@ -561,7 +561,7 @@ zuei4 zuei4 zhong1 zhong1 chu1 chu1 xian4zai4 xian4zai4 xian4zai4 xian4zai4 ta1d
 ch ong2 zhen1 zhen1 ie3shiii4 ie3shiii4 ie3shiii4 bu4 bu4 gan3 gan3 jiou4 jiou4 cii3 cii3 rang4 rang4 qin2 qin2 jvn1 jvn1 zai4 zai4 cii4 cii4 huei2 huei2 shiii1 shiii1
 hai2 hai2 shiii4 shiii4 van4 h en4 ji2 ji2 shen1 shen1 de5 de5 li4 li4 guei3 guei3
 huo4 huo4 shiii4 shiii4 fu4 fu4 jia1 jia1 le5 le5 mo2 mo2 fa3 fa3 zhen4 zhen4 de5 de5 mo2 mo2 fa2 fa2 u3 qi4 qi4
-k ou4 guo2 guo2 de5zhan4 de5zhan4 de5zhan4 de5zhan4 dou4 dou4 ji1 ji1 da4 da4 duo1 duo1 zai4 zai4 te4 te4 zhong3 zhong3 bu4 bu4 duei4 duei4 de5t de5t de5t ou1 xi2 xi2 zhong1 zhong1 bei4 bei4 zh a4 huei3 huei3
+k ou4 guo2 guo2 de5 de5 zhan4 zhan4 dou4 dou4 ji1 ji1 da4 da4 duo1 duo1 zai4 zai4 te4 te4 zhong3 zhong3 bu4 bu4 duei4 duei4 de5t de5t de5t ou1 xi2 xi2 zhong1 zhong1 bei4 bei4 zh a4 huei3 huei3
 uo3 hai2 hai2 xiang3 xiang3 kan4 kan4
 jiou4 jiou4 m i2 de5 de5 zhang1 zhang1 tong2 tong2 shen2 shen2 huen2 huen2 d ian1 dao3 dao3 le5 le5
 shen1 shen1 zii1 zii1 uan3 ru2 ru2 fei1 fei1 ian4 i4ban1 i4ban1 i4ban1 qing1 qing1 ing2
@@ -598,7 +598,7 @@ qi2 qi2 zhen4 zhen4 ren4 ren4 zhiii1 zhiii1 g uang3 bo2 bo2
 uan3 ru2 ru2 zhiii4 zhiii4 shen1 shen1 mei2iou3 mei2iou3 mei2iou3 guang1 guang1 liang4 liang4 de5h de5h de5h ei1 ie4 zhong1 zhong1
 na4 na4 hei1 hei1 an4 zhiii1hou4 zhiii1hou4 zhiii1hou4 zhiii1hou4 dao4 dao4 di3 di3 shiii4 shiii4 shen2me5 shen2me5 shen2me5 shen2me5 kong3 kong3 pa4 pa4 jve2 jve2 duei4 duei4 bu2shiii4 bu2shiii4 bu2shiii4 bu2shiii4 shen2me5 shen2me5 shen2me5 shen2me5 hao3 hao3 de5 de5 dong1xi5 dong1xi5 dong1xi5 dong1xi5
 iou3 shu2 shu2 xi1 xi1 su1 su1 chen2 chen2 de5ren2 de5ren2 de5ren2 de5ren2 li4 li4 ji2 ji2 da4 da4 sheng1 sheng1 de5 de5 iao1 h e5 zhe5 zhe5
-uo3 suei2 suei2 i4de5 i4de5 i4de5 uen4 le5ta1 le5ta1 le5ta1 le5ta1 ji3 ji3 jv4 jv4 sheng1 sheng1 huo2 huo2 qing2kuang4 qing2kuang4 qing2kuang4 qing2kuang4
+uo3 suei2 suei2 i4de5 i4de5 i4de5 uen4 le5 le5 ta1 ta1 ji3 ji3 jv4 jv4 sheng1 sheng1 huo2 huo2 qing2kuang4 qing2kuang4 qing2kuang4 qing2kuang4
 he2 he2 dong1 dong1 ji1 ji1 hu1 hu1 suan4 suan4 shiii4 shiii4 qing1 qing1 chao2 chao2 er2 chu1 chu1
 sh en4zhiii4 en4zhiii4 en4zhiii4 iou3 shiii2hou5 shiii2hou5 shiii2hou5 shiii2hou5 dou1 dou1 bu4 bu4 huei2 huei2 da2 da2
 dao4 dao4 chu4 chu4 zhang1 zhang1 iang2 uo3 shiii4 shiii4 ta1de5 ta1de5 ta1de5 ta1de5 bu4 bu4 shu3 shu3
@@ -654,7 +654,7 @@ zh u3 xi2 xi2 luo2 luo2 b in1 xian1 xian1 sh eng5 sh uai4 xian1 xian1 fa1 fa1 ia
 zhong1 zhong1 i1 dou1 dou1 fen1 fen1 men2 men2 pai4 pai4 de5 de5
 ta1 ta1 chen2 chen2 xia4 xia4 lian3 lian3 bu4 bu4 shuo1 shuo1 hua4 hua4
 hai2 hai2 iou3i4 iou3i4 ming2 ming2 jiao4 jiao4 fu2 fu2 l ang3 xi1 xi1 sii1 sii1 bu4 bu4 la1 la1 ji2 ji2 de5 de5 zheng4 zheng4 ren2 ren2 shuo1 shuo1
-l ing2 xvan1 xvan1 deng3 deng3 ren2 ren2 bei4 bei4 b i1 jin4 jin4 xing1 xing1 chen2 chen2 dian4 dian4 de5di4 de5di4 de5di4 de5di4 u3 ge4 ge4 ve4
+l ing2 xvan1 xvan1 deng3ren2 deng3ren2 deng3ren2 deng3ren2 bei4 bei4 b i1 jin4 jin4 xing1 xing1 chen2 chen2 dian4 dian4 de5di4 de5di4 de5di4 de5di4 u3 ge4 ge4 ve4
 sh ou2 zhiii3 zhiii3 bo1 bo1 xiang4 xiang4 qin2 qin2 xian2 xian2
 ru2guo3 ru2guo3 ru2guo3 ru2guo3 ta1men5 ta1men5 ta1men5 ta1men5 sha1 sha1 cuo4 cuo4 le5 le5 ren2 ren2
 er2 uo3 hai2 hai2 ke2i3 ke2i3 ke2i3 ch en4 ji1 ji1 xiou1 xiou1 lian4 lian4 feng1 feng1 lei2 lei2 zhiii1 zhiii1 li4 li4
@@ -790,7 +790,7 @@ mei2 mei2 duo1 duo1 da4de5 da4de5 da4de5 da4de5 te4 te4 dian3 dian3
 na4 na4 uo3 rang4 rang4 ren2 ren2 dai4 dai4 n in2 guo4qv4 guo4qv4 guo4qv4 guo4qv4
 qve4 qve4 ie3shiii4 ie3shiii4 ie3shiii4 ta1de5 ta1de5 ta1de5 ta1de5 zao4 zao4 hua4 hua4
 zhe4 zhe4 san1 san1 tian1 tian1 zuei4 zuei4 uang4
-g ao1 jian4 jian4 li2 li2 cheng2 cheng2 jiou4 jiou4 le5ta1 le5ta1 le5ta1 le5ta1
+g ao1 jian4 jian4 li2 li2 cheng2 cheng2 jiou4 jiou4 le5 le5 ta1 ta1
 er2qie3 er2qie3 er2qie3 zii4ji3 zii4ji3 zii4ji3 zii4ji3 hai2 hai2 huei4 huei4 ai2 z ai3
 m en2 he2 he2 l ong3 shiii2 shiii2
 x van1 suen1 suen1 u3 d ie2 shang4 shang4 dian4 dian4 qiou2 qiou2 jian4 jian4
